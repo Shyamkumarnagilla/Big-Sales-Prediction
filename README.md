@@ -12,4 +12,4 @@ Visualization: Plotting feature importances and sales predictions to understand 
 The model predicts sales with a high degree of accuracy, helping businesses make informed decisions about inventory management, marketing strategies, and resource allocation.
 
 
-**Dataset used:**https://github.com/YBI-Foundation/Dataset/raw/main/Big%20Sales%20Data.csv
+**Dataset used:** https://github.com/YBI-Foundation/Dataset/raw/main/Big%20Sales%20Data.csv
